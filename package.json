@@ -1,0 +1,17 @@
+{
+  "name": "simple-mongoose",
+  "version": "1.0.0",
+  "description": "Simple mongoose, mongodb, express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:panjiggm/express-mongoose-demo.git",
+  "author": "Panji Gumelar <panjiggm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.5"
+  }
+}
